@@ -1,0 +1,15 @@
+{
+  "name": "node_apps",
+  "version": "1.0.0",
+  "description": "deploy to Azure App services",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Tanka Prasad Tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
